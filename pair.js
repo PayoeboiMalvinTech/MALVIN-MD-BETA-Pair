@@ -74,7 +74,7 @@ router.get('/', async (req, res) => {
                         });
 
                         await PrabathPairWeb.sendMessage(user_jid, {
-                            text: "┏━━━━━━━━━━━━━━┓\n┃╭┈───────────\n❗ `Dont share Your code to anyone`\n\n*💕Thank you for using MALVIN-MD*\n\n*👉🏻If you have any problem please contact us on Whatsapp*\n\n*👉🏻https://wa.me/263714757857*\n\n*👉🏻https://github.com/kingmalvn/MALVIN-MD/fork*\n\n----------------------------------------------------\n\n",
+                            text: "┏━━━━━━━━━━━━━━┓\n┃╭┈───────────\n❗ `Dont share Your code to anyone`\n\n*💕Thank you for using MALVIN Pair*\n\n*👉🏻If you have any problem please contact us on Whatsapp*\n\n*👉🏻https://wa.me/263714757857*\n\n*👉🏻https://github.com/kingmalvn/MALVIN-MD/fork*\n\n----------------------------------------------------\n\n",
    
                             });
    
